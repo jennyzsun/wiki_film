@@ -14,7 +14,6 @@ The goal of wiki_film is to provide a module to users with functions that aid in
 * get_wiki_val(title, search) 
 * get_wiki_data(movie, year) 
 * get_dollar_amount(x) 
-* 
 
 ###To Use:
 Download 'wiki_film.py' and enter `get_wiki_data("insert_movie_name", insert_movie_year)`. <br />
