@@ -16,5 +16,5 @@ The goal of wiki_film is to provide a module to users with functions that aid in
 * get_dollar_amount(x) 
 
 ###To Use:
-Download 'wiki_film.py' and enter `get_wiki_data("insert_movie_name", insert_movie_year)`. <br />
+Download `wiki_film.py`. To get data (as shown in the picture above), use `get_wiki_data("insert_movie_name", insert_movie_year)`. <br />
 For example: `get_wiki_data("Pitch Perfect", 2012)`
